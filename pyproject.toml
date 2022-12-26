@@ -11,6 +11,7 @@ python = "^3.10"
 jupyterlab = "^3.5.1"
 jupyterlab-vim = "^0.15.1"
 tzdata = "^2022.7"
+requests = "^2.28.1"
 
 [build-system]
 requires = ["poetry-core"]
